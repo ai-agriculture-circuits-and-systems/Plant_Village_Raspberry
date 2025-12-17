@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3578738957,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (402).JPG",
+      "size": 11262,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4466370959,
+      "image_id": 3578738957,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 5104,
+      "bbox": [
+        0,
+        0,
+        191,
+        204
+      ]
+    },
+    {
+      "id": 5986147959,
+      "image_id": 3578738957,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 617,
+      "bbox": [
+        52,
+        62,
+        28,
+        53
+      ]
+    },
+    {
+      "id": 4314553959,
+      "image_id": 3578738957,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 105,
+      "bbox": [
+        37,
+        38,
+        17,
+        18
+      ]
+    },
+    {
+      "id": 1723629959,
+      "image_id": 3578738957,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 221,
+      "bbox": [
+        0,
+        30,
+        26,
+        21
+      ]
+    },
+    {
+      "id": 9489920959,
+      "image_id": 3578738957,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 174,
+      "bbox": [
+        19,
+        13,
+        31,
+        19
+      ]
+    },
+    {
+      "id": 3877865959,
+      "image_id": 3578738957,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 371,
+      "bbox": [
+        0,
+        3,
+        39,
+        21
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

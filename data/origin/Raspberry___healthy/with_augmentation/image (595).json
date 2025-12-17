@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3778942201,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (595).JPG",
+      "size": 13410,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7961479211,
+      "image_id": 3778942201,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 217,
+      "bbox": [
+        14,
+        159,
+        40,
+        45
+      ]
+    },
+    {
+      "id": 8918840211,
+      "image_id": 3778942201,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 2341,
+      "bbox": [
+        12,
+        11,
+        192,
+        193
+      ]
+    },
+    {
+      "id": 1438593211,
+      "image_id": 3778942201,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 102,
+      "bbox": [
+        0,
+        132,
+        12,
+        24
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

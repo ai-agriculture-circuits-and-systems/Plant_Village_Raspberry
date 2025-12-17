@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2254916933,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (398).JPG",
+      "size": 11440,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1308181934,
+      "image_id": 2254916933,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 1900,
+      "bbox": [
+        122,
+        0,
+        54,
+        204
+      ]
+    },
+    {
+      "id": 5874816934,
+      "image_id": 2254916933,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 392,
+      "bbox": [
+        0,
+        168,
+        39,
+        27
+      ]
+    },
+    {
+      "id": 9396704934,
+      "image_id": 2254916933,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 108,
+      "bbox": [
+        25,
+        144,
+        18,
+        18
+      ]
+    },
+    {
+      "id": 3596443934,
+      "image_id": 2254916933,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 2855,
+      "bbox": [
+        0,
+        0,
+        163,
+        143
+      ]
+    },
+    {
+      "id": 9602317934,
+      "image_id": 2254916933,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 624,
+      "bbox": [
+        41,
+        84,
+        28,
+        54
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5485905407,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (756).JPG",
+      "size": 14727,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4362199416,
+      "image_id": 5485905407,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 4299,
+      "bbox": [
+        0,
+        125,
+        114,
+        79
+      ]
+    },
+    {
+      "id": 9641354416,
+      "image_id": 5485905407,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 1862,
+      "bbox": [
+        90,
+        156,
+        109,
+        48
+      ]
+    },
+    {
+      "id": 3649082416,
+      "image_id": 5485905407,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 3760,
+      "bbox": [
+        1,
+        0,
+        203,
+        123
+      ]
+    },
+    {
+      "id": 3020329416,
+      "image_id": 5485905407,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 384,
+      "bbox": [
+        90,
+        37,
+        37,
+        40
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

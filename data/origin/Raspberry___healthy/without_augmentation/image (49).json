@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 16.0,
+      "source": "plant_village_classification",
+      "original_filename": "Mary_HL 6358.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 1850836263,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (49).JPG",
+      "size": 18562,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Mary_HL 6358.JPG",
+      "pvc_filename": "05dfc382-396a-4301-b940-7d1098feba11___Mary_HL 6358.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3006208274,
+      "image_id": 1850836263,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 2328,
+      "bbox": [
+        27,
+        28,
+        213,
+        221
+      ]
+    },
+    {
+      "id": 4794034274,
+      "image_id": 1850836263,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 269,
+      "bbox": [
+        22,
+        103,
+        17,
+        64
+      ]
+    },
+    {
+      "id": 3910320274,
+      "image_id": 1850836263,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        59,
+        18,
+        37,
+        23
+      ]
+    },
+    {
+      "id": 5776700274,
+      "image_id": 1850836263,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        97,
+        12,
+        31,
+        10
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3817760235,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (599).JPG",
+      "size": 13149,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4307977237,
+      "image_id": 3817760235,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 386,
+      "bbox": [
+        115,
+        161,
+        24,
+        37
+      ]
+    },
+    {
+      "id": 3022421237,
+      "image_id": 3817760235,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 2083,
+      "bbox": [
+        0,
+        89,
+        93,
+        87
+      ]
+    },
+    {
+      "id": 8240383237,
+      "image_id": 3817760235,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 1675,
+      "bbox": [
+        117,
+        0,
+        87,
+        165
+      ]
+    },
+    {
+      "id": 5931181237,
+      "image_id": 3817760235,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 255,
+      "bbox": [
+        62,
+        134,
+        59,
+        25
+      ]
+    },
+    {
+      "id": 3370413237,
+      "image_id": 3817760235,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 621,
+      "bbox": [
+        0,
+        61,
+        81,
+        50
+      ]
+    },
+    {
+      "id": 6294358237,
+      "image_id": 3817760235,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 766,
+      "bbox": [
+        6,
+        7,
+        65,
+        91
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

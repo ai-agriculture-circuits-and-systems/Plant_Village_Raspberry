@@ -1,0 +1,107 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 36.0,
+      "source": "plant_village_classification",
+      "original_filename": "Mary_HL 9341.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4213981618,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (126).JPG",
+      "size": 15099,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Mary_HL 9341.JPG",
+      "pvc_filename": "24b7a9e2-8a0f-42b6-9506-45fb261857fe___Mary_HL 9341.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4028122627,
+      "image_id": 4213981618,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 893,
+      "bbox": [
+        149,
+        131,
+        49,
+        85
+      ]
+    },
+    {
+      "id": 2481682627,
+      "image_id": 4213981618,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 140,
+      "bbox": [
+        139,
+        179,
+        17,
+        30
+      ]
+    },
+    {
+      "id": 9780546627,
+      "image_id": 4213981618,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 180,
+      "bbox": [
+        33,
+        150,
+        51,
+        42
+      ]
+    },
+    {
+      "id": 2759791627,
+      "image_id": 4213981618,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 5099,
+      "bbox": [
+        137,
+        18,
+        98,
+        163
+      ]
+    },
+    {
+      "id": 2443196627,
+      "image_id": 4213981618,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 1259,
+      "bbox": [
+        17,
+        11,
+        103,
+        139
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

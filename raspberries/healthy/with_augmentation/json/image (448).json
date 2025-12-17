@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9446235175,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (448).JPG",
+      "size": 14214,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9626317178,
+      "image_id": 9446235175,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 1452,
+      "bbox": [
+        30,
+        106,
+        174,
+        92
+      ]
+    },
+    {
+      "id": 3919313178,
+      "image_id": 9446235175,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 1221,
+      "bbox": [
+        50,
+        77,
+        82,
+        101
+      ]
+    },
+    {
+      "id": 8477001178,
+      "image_id": 9446235175,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 292,
+      "bbox": [
+        0,
+        47,
+        28,
+        93
+      ]
+    },
+    {
+      "id": 6846812178,
+      "image_id": 9446235175,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 350,
+      "bbox": [
+        172,
+        27,
+        32,
+        25
+      ]
+    },
+    {
+      "id": 7560217178,
+      "image_id": 9446235175,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 297,
+      "bbox": [
+        33,
+        0,
+        50,
+        34
+      ]
+    },
+    {
+      "id": 5336739178,
+      "image_id": 9446235175,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 200,
+      "bbox": [
+        157,
+        0,
+        28,
+        32
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

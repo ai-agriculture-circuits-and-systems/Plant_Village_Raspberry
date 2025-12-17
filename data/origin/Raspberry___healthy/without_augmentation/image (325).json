@@ -1,0 +1,133 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 35.0,
+      "source": "plant_village_classification",
+      "original_filename": "Mary_HL 9333.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 3262090439,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (325).JPG",
+      "size": 21285,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "Mary_HL 9333.JPG",
+      "pvc_filename": "dc625fd1-1e66-4b78-882a-9be38921e30f___Mary_HL 9333.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2045606450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 753,
+      "bbox": [
+        93,
+        186,
+        80,
+        65
+      ]
+    },
+    {
+      "id": 9451055450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 193,
+      "bbox": [
+        174,
+        153,
+        32,
+        40
+      ]
+    },
+    {
+      "id": 9850591450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        60,
+        164,
+        20,
+        24
+      ]
+    },
+    {
+      "id": 7595600450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 407,
+      "bbox": [
+        207,
+        67,
+        35,
+        88
+      ]
+    },
+    {
+      "id": 5450525450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 674,
+      "bbox": [
+        13,
+        62,
+        31,
+        64
+      ]
+    },
+    {
+      "id": 3208679450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 252,
+      "bbox": [
+        15,
+        32,
+        38,
+        31
+      ]
+    },
+    {
+      "id": 2444729450,
+      "image_id": 3262090439,
+      "category_id": 2000000023,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        56,
+        25,
+        34,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}

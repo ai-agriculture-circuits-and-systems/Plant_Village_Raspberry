@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3577169433,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (492).JPG",
+      "size": 16740,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6888193438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        0,
+        179,
+        44,
+        15
+      ]
+    },
+    {
+      "id": 1981841438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 1002,
+      "bbox": [
+        82,
+        102,
+        106,
+        89
+      ]
+    },
+    {
+      "id": 5389595438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 131,
+      "bbox": [
+        34,
+        161,
+        43,
+        16
+      ]
+    },
+    {
+      "id": 5892646438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 170,
+      "bbox": [
+        92,
+        160,
+        35,
+        17
+      ]
+    },
+    {
+      "id": 4138835438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 391,
+      "bbox": [
+        0,
+        95,
+        44,
+        48
+      ]
+    },
+    {
+      "id": 1371457438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        0,
+        70,
+        28,
+        25
+      ]
+    },
+    {
+      "id": 2164963438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 184,
+      "bbox": [
+        0,
+        16,
+        52,
+        34
+      ]
+    },
+    {
+      "id": 1022285438,
+      "image_id": 3577169433,
+      "category_id": 1000000023,
+      "segmentation": [],
+      "area": 112,
+      "bbox": [
+        53,
+        0,
+        36,
+        21
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000023,
+      "name": "healthy",
+      "supercategory": "Raspberry"
+    }
+  ]
+}
