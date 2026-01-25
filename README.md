@@ -7,7 +7,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Watchers&color=cyan&labelColor=cyan&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry)
 [![GitHub issues](https://img.shields.io/github/issues/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Issues&color=red&labelColor=red&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=PRs&color=lime&labelColor=lime&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/pulls)
-[![GitHub contributors](https://img.shields.io/github/contributors/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Contributors&color=purple&labelColor=purple&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Contributors&color=purple&labelColor=purple&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Last%20Commit&color=gray&labelColor=gray&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/commits)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.xxxxx-indigo?logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.xxxxx)
 
