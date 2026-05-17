@@ -1,15 +1,14 @@
 # Plant Village Raspberry
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue?logo=semver&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry)
-[![GitHub stars](https://img.shields.io/github/stars/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Stars&color=orange&labelColor=orange&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry)
-[![GitHub forks](https://img.shields.io/github/forks/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Forks&color=yellow&labelColor=yellow&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry)
-[![GitHub watchers](https://img.shields.io/github/watchers/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Watchers&color=cyan&labelColor=cyan&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry)
-[![GitHub issues](https://img.shields.io/github/issues/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Issues&color=red&labelColor=red&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=PRs&color=lime&labelColor=lime&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/pulls)
-[![GitHub contributors](https://img.shields.io/github/contributors/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Contributors&color=purple&labelColor=purple&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/Plant_Village_Raspberry?style=flat&logo=github&label=Last%20Commit&color=gray&labelColor=gray&logoColor=white)](https://github.com/your-repo/Plant_Village_Raspberry/commits)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.xxxxx-indigo?logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.xxxxx)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?logo=semver&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry)
+[![GitHub stars](https://img.shields.io/github/stars/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Stars&color=orange&labelColor=orange&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry)
+[![GitHub forks](https://img.shields.io/github/forks/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Forks&color=yellow&labelColor=yellow&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry)
+[![GitHub watchers](https://img.shields.io/github/watchers/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Watchers&color=cyan&labelColor=cyan&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry)
+[![GitHub issues](https://img.shields.io/github/issues/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Issues&color=red&labelColor=red&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=PRs&color=lime&labelColor=lime&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Contributors&color=purple&labelColor=purple&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry?style=flat&logo=github&label=Last%20Commit&color=gray&labelColor=gray&logoColor=white)](https://github.com/ai-agriculture-circuits-and-systems/Plant_Village_Raspberry/commits)
 
 Raspberry leaf classification dataset from Plant Village. Contains images of healthy raspberry leaves. This dataset follows the standardized layout specification.
 
